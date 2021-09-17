@@ -3,11 +3,12 @@
 ### Frontend Web Developer
 
 - I am extremely motivated at learning to excel in my skills. Consistency and passion for my work are the key factors towards my success.
+- I am fueled by my passion for understanding a problem and solving it. I consider myself a ‘forever student,’ eager to build on my academic foundations and stay in tune with the web development strategies through continued coursework and professional development.
+I love to work on stuffs that can help the community to serve better.
 - I am a firm believer of the quote :
 > **Better than yesterday**
 
-I am fueled by my passion for understanding a problem and solving it. I consider myself a ‘forever student,’ eager to build on my academic foundations and stay in tune with the web development strategies through continued coursework and professional development.
-I love to work on stuffs that can help the community to serve better.
+
 
 ### Skills
 
