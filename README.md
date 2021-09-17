@@ -18,8 +18,6 @@ I love to work on stuffs that can help the community to serve better.
 - 📫 You can react me via [My Portfolio](https://srishti-maurya.netlify.app/)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/srishti-maurya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mauryasrishti22//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SrishtiMaurya1?s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://srishti-maurya.netlify.app/)  
-
 
 <!---
 srishti-maurya/srishti-maurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
