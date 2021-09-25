@@ -1,4 +1,4 @@
-![Frontend Web Developer](https://github.com/srishti-maurya/srishti-maurya/blob/main/Srishi%20Maurya.png)
+![Frontend Web Developer](https://github.com/srishti-maurya/srishti-maurya/blob/main/Srishti%20Maurya.png)
 ## Hi there 👋, I am Srishti Maurya
 ### Frontend Web Developer
 
