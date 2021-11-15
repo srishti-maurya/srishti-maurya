@@ -17,8 +17,9 @@ I love to work on stuffs that can help the community to serve better.
 - 💻 HTML, CSS, JS
 - 📫 You can react me via [My Portfolio](https://srishti-maurya.netlify.app/)
 
+[![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=srishti-maurya&count_private=true&show_icons=true&theme=react)](https://github.com/srishti-maurya/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti-maurya&layout=compact&theme=react)](https://github.com/srishti-maurya/github-readme-stats)
 <!---
 srishti-maurya/srishti-maurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
