@@ -15,7 +15,7 @@ I love to work on stuffs that can help the community to serve better.
 - ⚛ React
 - 📱 React Native
 - 💻 HTML, CSS, JS
-- 📫 You can react me via [My Portfolio](https://srishti-maurya.netlify.app/)
+- 📫 You can reach me via [My Portfolio](https://srishti-maurya.netlify.app/)
 
 [![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=srishti-maurya&count_private=true&show_icons=true&theme=react)](https://github.com/srishti-maurya/github-readme-stats)
 
