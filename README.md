@@ -10,7 +10,6 @@
 * 👨‍💻 All of my projects are available [here](http://srishti-maurya.netlify.app/)
 * 📝 Read my articles on [hashnode](https://srishtimaurya.hashnode.dev/)
 * ⚡ I am a book lover
-* 📄 Know about my experiences [resume](https://srishti-maurya.netlify.app/resume)
 * 📫 You can reach me at [srishti22maurya@gmail.com](mailto:srishti22maurya@gmail.com)
 
 
