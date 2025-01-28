@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Srishti Maurya</h1>
-<h3 align="center">Mobile Developer |  React Native - Building Cross-Platform Magic</h3>
+<h3 align="center">Software Engineer |  Crafting user experiences with React and React Native</h3>
 
 *Being better than yesterday || Forever learner*
 
-* 🌍 I'm based in Gurgaon
+* 🌍 I'm based in Bangalore
 * 👨‍💻 All of my projects are available [portfolio link](http://srishti-maurya.netlify.app/)
 * 📝 Read my articles on [hashnode](https://srishtimaurya.hashnode.dev/)
 * 📫 You can reach me at [srishti22maurya@gmail.com](mailto:srishti22maurya@gmail.com)
