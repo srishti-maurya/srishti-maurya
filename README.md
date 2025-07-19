@@ -5,7 +5,7 @@
 *Being better than yesterday || Forever learner*
 
 * 🌍 I'm based in Bangalore
-* 👨‍💻 All of my projects are available [portfolio link](http://srishti-maurya.netlify.app/)
+* 👨‍💻 Know more about me - [Srishti Maurya](https://srishtimaurya.com/)
 * 📝 Read my articles on [hashnode](https://srishtimaurya.hashnode.dev/)
 * 📫 You can reach me at [mauryasrishti2209@gmail.com](mailto:mauryasrishti2209@gmail.com)
 
